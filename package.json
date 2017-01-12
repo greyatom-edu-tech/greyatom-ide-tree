@@ -1,6 +1,6 @@
 {
   "name": "greyatom-ide-tree",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "upstreamVersion": "0.210.0",
   "main": "./lib/main",
   "description": "A Tree View replacement for the Greyatom IDE",
