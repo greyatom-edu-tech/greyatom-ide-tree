@@ -1,10 +1,10 @@
 {
-  "name": "learn-ide-tree",
-  "version": "1.0.17",
+  "name": "greyatom-ide-tree",
+  "version": "0.0.0",
   "upstreamVersion": "0.210.0",
   "main": "./lib/main",
-  "description": "A Tree View replacement for the Learn IDE",
-  "repository": "https://github.com/learn-co/learn-ide-tree",
+  "description": "A Tree View replacement for the Greyatom IDE",
+  "repository": "https://github.com/PradeepJaiswar/greyatom-ide-tree",
   "license": "MIT",
   "engines": {
     "atom": "*"
