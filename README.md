@@ -1,4 +1,4 @@
-# Learn IDE's Tree View
+# Greyatom IDE's Tree View
 
 This fork of [Tree View package](https://github.com/learn-co/learn-ide-tree) is used by the [Greyatom IDE](https://greyatom.co) to provide all of tree-view's functionality while synchronizing with a remote filesystem. It's intended to be used alongside the primary [Grey IDE package](https://github.com/PradeepJaiswar/greyatom-ide).
 
