@@ -93,7 +93,7 @@ module.exports = helper =
 
   getToken: ->
     new Promise (resolve) ->
-      pkg = atom.packages.loadPackage('learn-ide')
+      pkg = atom.packages.loadPackage('Greyatom-ide')
       token = pkg.mainModule.token
 
       token.observe (value) ->
@@ -173,4 +173,3 @@ module.exports = helper =
   termFocus: ->
     view = atom.views.getView(atom.workspace)
     atom.commands.dispatch view, 'learn-ide:focus'
-
