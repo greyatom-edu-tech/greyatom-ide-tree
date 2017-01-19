@@ -4,7 +4,7 @@
   "upstreamVersion": "0.210.0",
   "main": "./lib/main",
   "description": "A Tree View replacement for the Greyatom IDE",
-  "repository": "https://github.com/PradeepJaiswar/greyatom-ide-tree",
+  "repository": "https://github.com/greyatom-edu-tech/greyatom-ide-tree",
   "license": "MIT",
   "engines": {
     "atom": "*"
